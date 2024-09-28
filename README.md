@@ -6,7 +6,6 @@ This is a simple and intuitive to-do list application built using HTML, CSS, and
 - **Add Tasks:** Users can quickly add new tasks with a simple input field.
 - **Edit Tasks:** Tasks can be edited in place for quick updates.
 - **Delete Tasks:** Completed or unnecessary tasks can be removed with a single click.
-- **Task Completion:** Tasks can be marked as complete by striking through the text.
 - **Responsive Design:** The layout is fully responsive and adapts to various screen sizes.
 
 ## Technologies Used
